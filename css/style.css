@@ -62,7 +62,7 @@ a{
     border: 2px solid #DEECFC;
     border-radius: 10px !important;
 }
-.form:hover{
+.form:hover,.form:active{
     border: 2px solid #CE7E00;
     border-radius: 10px !important;
 }
